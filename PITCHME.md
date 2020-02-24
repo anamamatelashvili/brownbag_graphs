@@ -49,7 +49,7 @@ The following are equivalent for a graph G:
 ![](7ac.png)
 @snapend
 
-
+Paper can be found [here](https://arxiv.org/abs/1209.5451).
 ---
 
 # Theorems
