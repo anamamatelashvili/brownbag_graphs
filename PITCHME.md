@@ -40,7 +40,7 @@
 
 A graph is called n-arc-connected if for any n points on the graph there is a path through all the points. 
 
-### The following are equivalent for a graph G: 
+The following are equivalent for a graph G: 
 - G is n-ac for all n 
 - G is 7-ac
 - G is one of
