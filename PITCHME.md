@@ -1,7 +1,7 @@
 
 # Graphs for Data Science
 @snap[east span-100]
-### nushki Mamatelashvili 
+### nushki mamatelashvili 
 @snapend
 
 @snap[south-east span-30]
