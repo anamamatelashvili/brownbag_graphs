@@ -56,10 +56,11 @@
 
 ---
 
-# Seven Bridges of Königsberg as a graph
+# Seven Bridges of Königsberg 
+as a graph
 
 
-@snap[center span-70]
+@snap[midpoint span-70]
 ![](360px-Konigsberg_graph.svg.png)
 @snapend
  
