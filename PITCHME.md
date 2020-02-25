@@ -131,23 +131,18 @@ In computer science and optimization theory, the max-flow min-cut theorem states
  
 --- 
 
-# Data with graph structure 
+
+@snap[midpoint span-70]
+# Data with graph structure
+@snapend
 
 ---
 
 # text
 
-@snap[south span-50]
+@snap[midpoint span-50]
 ![](dep.png)
 @snapend
-
----
-
-# Networks: 
-- Social networds
-- Infrastructure grids: energy grids, roads
-- Concepts
-- Epidemic spread
 
 ---
 
@@ -164,10 +159,18 @@ She's many-bodied and divided in at least 2 factions.
 
 --- 
 
-# Information Extraction 
+# Networks: 
+- Social networds
+- Infrastructure grids: energy grids, roads
+- Epidemic spread
+
+---
+
+# Information 
+# Extraction 
 
 
-@snap[south span-50]
+@snap[east span-50]
 ![](mockup-receipt.pdf)
 @snapend
 
