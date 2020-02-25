@@ -24,15 +24,50 @@
 
 <br>
 
-- Nodes
-- Connected with edges 
+- Nodes/vertices
+- Connected with edges/relations
+
+- Edges can have direction 
   
 @snap[south-west span-40]
-![](graph1.png)
+![](g440px-Directed.svg.png)
 @snapend
 
 @snap[south-east span-40]
-![](graph2.png)
+![](Undirected.svg.png)
+@snapend
+
+---
+
+# Graphs
+
+<br>
+
+- There can be multiple edges between nodes
+  
+@snap[west span-40]
+![](360px-Königsberg_graph.svg.png)
+@snapend
+
+- Edges can have weights. 
+
+---
+
+# Seven Bridges of Königsberg
+
+
+@snap[center span-70]
+![](358px-7_bridges.svg.png)
+@snapend
+
+
+---
+
+# Seven Bridges of Königsberg as a graph
+
+
+@snap[center span-70]
+![](360px-Königsberg_graph.svg.png)
 @snapend
  
 ---
