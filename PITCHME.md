@@ -30,7 +30,7 @@
 - Edges can have direction 
   
 @snap[south-west span-40]
-![](g440px-Directed.svg.png)
+![](440px-Directed.svg.png)
 @snapend
 
 @snap[south-east span-40]
@@ -46,7 +46,7 @@
 - There can be multiple edges between nodes
   
 @snap[west span-40]
-![](360px-Königsberg_graph.svg.png)
+![](Konigsberg_bridges.png)
 @snapend
 
 - Edges can have weights. 
@@ -57,7 +57,7 @@
 
 
 @snap[center span-70]
-![](358px-7_bridges.svg.png)
+![](Konigsberg_bridges.png)
 @snapend
 
 
