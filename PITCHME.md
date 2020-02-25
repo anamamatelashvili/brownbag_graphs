@@ -209,7 +209,7 @@ She's many-bodied and divided in at least 2 factions.
 
 # PageRank
 
-@snap[south span-50]
+@snap[midpoint span-70]
 ![](440px-PageRank-hi-res.png)
 @snapend
 
@@ -217,30 +217,16 @@ She's many-bodied and divided in at least 2 factions.
 
 # Summariser for slack
 
-@snap[south span-50]
+@snap[midpoint span-70]
 ![](link_summariser.png)
 @snapend
 
 ---
 
-# Graph coloring
-
-@snap[south span-50]
-![](images.jpeg)
-@snapend
-
-
----
-
-# Minimum spanning tree
-
-@snap[south span-50]
-![](images-2.png)
-@snapend
-
----
 # Other Algorithms
 
+- Graph coloring
+- Minimum spanning tree
 - Shortest paths
 - Centrality measures
 
