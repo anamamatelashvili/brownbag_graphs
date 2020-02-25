@@ -135,6 +135,19 @@ According to the theorem, in a connected graph in which every vertex has at most
 
 In computer science and optimization theory, the max-flow min-cut theorem states that in a flow network, the maximum amount of flow passing from the source to the sink is equal to the total weight of the edges in the minimum cut, i.e. the smallest total weight of the edges which if removed would disconnect the source from the sink.
  
+--- 
+
+# Data with graph structure 
+
+---
+
+# text
+
+@snap[south span-50]
+![](dep.png)
+@snapend
+
+
 
 ---
 
