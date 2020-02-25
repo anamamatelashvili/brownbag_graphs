@@ -143,7 +143,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 # Information 
 # Extraction
 
-@snap[north-west span-50] 
+@snap[west span-50] 
 
 <br>
 
