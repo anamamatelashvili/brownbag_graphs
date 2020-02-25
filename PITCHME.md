@@ -191,20 +191,17 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 
 - Graph coloring
- - lower and upper bounds on number of colors
- - Grötzsch's theorem: every triangle-free planar graph can be colored with only three colors
- - The four color theorem
+ - Plethora of theorems with lower and upper bounds on number of colours. 
 - Cliques 
- - Mantel's Theorem: The maximum number of edges in an n-vertex triangle-free graph is `\[\lfloor n^2/4 \rfloor\]`. 
- - Ramsey's theorem: there is a monochromatic cliques in any edge labelling (with colours) of a sufficiently large complete graph. 
+ - Mantel's Theorem giving the maximum number of edges in an n-vertex triangle-free graph. 
+ - Ramsey's theorem asserting existence of monochromatic cliques in any edge collouring of a sufficiently large complete graph. 
 - Shortest paths
 - Minimum spanning tree
- - Number of spanning trees can be computed in polynomial time 
 - Planar graphs
- - Wagner's theorem: a finite graph is planar if and only if its minors include neither K5 (the complete graph on five vertices) nor K3,3 (the utility graph, a complete bipartite graph on six vertices). 
+ - Wagner's theorem giving a forbidden characterisation of planar graphs.  
 - Cut sets and connectivity 
- - Menger's theorem: in a finite graph, the size of a minimum cut set is equal to the maximum number of disjoint paths that can be found between any pair of vertices.
- - The max-flow min-cut theorem: the maximum amount of flow passing from the source to the sink is equal to the total weight of the edges in the minimum cut, i.e. the smallest total weight of the edges which if removed would disconnect the source from the sink.
+ - Menger's theorem relating the size of a minimum cut set and the maximum number of disjoint paths that can be found between any pair of vertices.
+ - The max-flow min-cut theorem relating the maximum amount of flow passing through a graph and the total weight of the edges in the minimum cut. 
 
 ---
 
