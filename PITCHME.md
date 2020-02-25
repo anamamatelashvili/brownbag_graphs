@@ -46,7 +46,7 @@
 - There can be multiple edges between nodes
   
 @snap[west span-40]
-![](Konigsberg_bridges.png)
+![](360px-Königsberg_graph.svg.png)
 @snapend
 
 - Edges can have weights. 
