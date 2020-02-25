@@ -217,7 +217,7 @@ She's many-bodied and divided in at least 2 factions.
 
 # Summariser for slack
 
-@snap[midpoint span-70]
+@snap[midpoint span-65]
 ![](link_summariser.png)
 @snapend
 
