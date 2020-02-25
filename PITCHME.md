@@ -189,44 +189,29 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 # Other Algorithms
 
-<br>
 
 - Graph coloring
+ - lower and upper bounds on number of colors
+ - Grötzsch's theorem: every triangle-free planar graph can be colored with only three colors
+ - The four color theorem
+- Cliques 
+ - Mantel's Theorem: The maximum number of edges in an n-vertex triangle-free graph is `\[\lfloor n^2/4 \rfloor\]`. 
+ - Ramsey's theorem: there is a monochromatic cliques in any edge labelling (with colours) of a sufficiently large complete graph. 
 - Shortest paths
 - Minimum spanning tree
+ - Number of spanning trees can be computed in polynomial time 
 - Planar graphs
+ - Wagner's theorem: a finite graph is planar if and only if its minors include neither K5 (the complete graph on five vertices) nor K3,3 (the utility graph, a complete bipartite graph on six vertices). 
+- Cut sets and connectivity 
+ - Menger's theorem: in a finite graph, the size of a minimum cut set is equal to the maximum number of disjoint paths that can be found between any pair of vertices.
+ - The max-flow min-cut theorem: the maximum amount of flow passing from the source to the sink is equal to the total weight of the edges in the minimum cut, i.e. the smallest total weight of the edges which if removed would disconnect the source from the sink.
 
 ---
 
-# Theorems
-
-Wagner's theorem: a finite graph is planar if and only if its minors include neither K5 (the complete graph on five vertices) nor K3,3 (the utility graph, a complete bipartite graph on six vertices). 
-
-Mantel's Theorem: The maximum number of edges in an n-vertex triangle-free graph is `\[\lfloor n^2/4 \rfloor\]`. 
-
-Ramsey's theorem, in one of its graph-theoretic forms, states that one will find monochromatic cliques in any edge labelling (with colours) of a sufficiently large complete graph. To demonstrate the theorem for two colours (say, blue and red), let r and s be any two positive integers.[1] Ramsey's theorem states that there exists a least positive integer R(r, s) for which every blue-red edge colouring of the complete graph on R(r, s) vertices contains a blue clique on r vertices or a red clique on s vertices. (Here R(r, s) signifies an integer that depends on both r and s.)
 
 
-Ore's theorem: a graph with sufficiently many edges must contain a Hamilton cycle. Specifically, the theorem considers the sum of the degrees of pairs of non-adjacent vertices: if every such pair has a sum that at least equals the total number of vertices in the graph, then the graph is Hamiltonian.
 
 
-Menger's theorem says that in a finite graph, the size of a minimum cut set is equal to the maximum number of disjoint paths that can be found between any pair of vertices.
- 
- lower and upper bounds on number of colors
- 
- number of spanning trees can be computed in polynomial time 
- 
- 
- Grötzsch's theorem is the statement that every triangle-free planar graph can be colored with only three colors
- 
- 
- the four color theorem, or the four color map theorem, states that, given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colors are required to color the regions of the map so that no two adjacent regions have the same color.  the theorem states that for loopless planar G, the chromatic number of its dual graph is <= 4. 
-
-In graph theory, the De Bruijn–Erdős theorem relates graph coloring of an infinite graph to the same problem on its finite subgraphs. It states that, when all finite subgraphs can be colored with c colors, the same is true for the whole graph.
-
-According to the theorem, in a connected graph in which every vertex has at most Δ neighbors, the vertices can be colored with only Δ colors, except for two cases, complete graphs and cycle graphs of odd length, which require Δ + 1 colors.
-
-In computer science and optimization theory, the max-flow min-cut theorem states that in a flow network, the maximum amount of flow passing from the source to the sink is equal to the total weight of the edges in the minimum cut, i.e. the smallest total weight of the edges which if removed would disconnect the source from the sink.
 
 ---
 @snap[west span-100]
