@@ -184,8 +184,11 @@ She's many-bodied and divided in at least 2 factions.
 
 ### Connected 
 ### Components
-@snapend
 
+<br>
+
+![](images.png)
+@snapend
 
 
 
@@ -196,14 +199,9 @@ She's many-bodied and divided in at least 2 factions.
 @snapend
 
 
-
-@snap[south-west span-50]
-![](images.png)
-@snapend
-
 ---
 
-@snap[south span-50]
+@snap[midpoint span-50]
 ![](mockup-receipt-1.pdf)
 @snapend
 
