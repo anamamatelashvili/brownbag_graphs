@@ -34,7 +34,7 @@
 
 - There can be multiple edges between nodes
  
-- Edges can have weights. 
+- Edges can have weights 
   
 @snap[south-east span-40]
 ![](440px-Directed.svg.png)
@@ -89,7 +89,7 @@ She's many-bodied and divided in at least 2 factions.
 
 <br>
 
-- NetworkX
+- Python packages: NetworkX
 - Graph databases: neo4j, GRAKN
 
 ---
@@ -202,13 +202,6 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 - Cut sets and connectivity 
  - Menger's theorem relating the size of a minimum cut set and the maximum number of disjoint paths that can be found between any pair of vertices.
  - The max-flow min-cut theorem relating the maximum amount of flow passing through a graph and the total weight of the edges in the minimum cut. 
-
----
-
-
-
-
-
 
 ---
 @snap[west span-100]
