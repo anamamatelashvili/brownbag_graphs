@@ -60,7 +60,7 @@ Wagner's theorem is a mathematical forbidden graph characterization of planar gr
 Mantel's Theorem. The maximum number of edges in an n-vertex triangle-free graph is 
 ⌊n2 / 4 ⌋
 .
-$\lfloor n^2/4 \rfloor$. (Mantel 1907)
+`\[\lfloor n^2/4 \rfloor\]`. (Mantel 1907)
 
 In graph theory, Robbins' theorem, named after Herbert Robbins (1939), states that the graphs that have strong orientations are exactly the 2-edge-connected graphs. That is, it is possible to choose a direction for each edge of an undirected graph G, turning it into a directed graph that has a path from every vertex to every other vertex, if and only if G is connected and has no bridge.
 
