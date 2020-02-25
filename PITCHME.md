@@ -58,14 +58,9 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 Wagner's theorem is a mathematical forbidden graph characterization of planar graphs, named after Klaus Wagner, stating that a finite graph is planar if and only if its minors include neither K5 (the complete graph on five vertices) nor K3,3 (the utility graph, a complete bipartite graph on six vertices). 
 
 Mantel's Theorem. The maximum number of edges in an n-vertex triangle-free graph is 
-⌊
-n
-2
-/
-4
-⌋
+⌊n2 / 4 ⌋
 .
-\lfloor n^2/4 \rfloor. (Mantel 1907)
+$\lfloor n^2/4 \rfloor$. (Mantel 1907)
 
 In graph theory, Robbins' theorem, named after Herbert Robbins (1939), states that the graphs that have strong orientations are exactly the 2-edge-connected graphs. That is, it is possible to choose a direction for each edge of an undirected graph G, turning it into a directed graph that has a path from every vertex to every other vertex, if and only if G is connected and has no bridge.
 
