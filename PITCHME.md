@@ -138,7 +138,7 @@ In computer science and optimization theory, the max-flow min-cut theorem states
 
 ---
 
-# text
+# Text
 
 @snap[midpoint span-50]
 ![](dep.png)
@@ -175,9 +175,22 @@ She's many-bodied and divided in at least 2 factions.
 @snapend
 
 ---
-# Connected component search
 
-@snap[south span-50]
+# Information 
+# Extraction 
+
+<br>
+
+### Connected component search
+
+
+@snap[east span-50]
+![](mockup-receipt.pdf)
+@snapend
+
+
+
+@snap[south-west span-50]
 ![](images.png)
 @snapend
 
