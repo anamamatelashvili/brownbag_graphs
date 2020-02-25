@@ -49,7 +49,7 @@
 # Seven Bridges of Königsberg
 
 
-@snap[center span-70]
+@snap[midpoint span-70]
 ![](Konigsberg_bridges.png)
 @snapend
 
