@@ -57,7 +57,7 @@
 ---
 
 # Seven Bridges of Königsberg 
-as a graph
+### as a graph
 
 
 @snap[midpoint span-70]
