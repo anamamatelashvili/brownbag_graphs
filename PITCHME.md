@@ -191,6 +191,8 @@ She's many-bodied and divided in at least 2 factions.
 
 @snap[east span-50]
 ![](mockup-receipt.pdf)
+<br>
+
 @snapend
 
 
