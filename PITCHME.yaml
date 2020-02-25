@@ -3,6 +3,7 @@
 #
 # For further details, see https://gitpitch.com/docs/settings.
 #
+mathjax : TeX-MML-AM_HTMLorMML-full
 
 #
 # Theme Setting
