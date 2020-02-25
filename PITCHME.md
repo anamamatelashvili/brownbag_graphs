@@ -176,12 +176,17 @@ She's many-bodied and divided in at least 2 factions.
 
 ---
 
+@snap[north-west span-50]
 # Information 
 # Extraction 
 
 <br>
 
-### Connected component search
+### Connected 
+### Components
+@snapend
+
+
 
 
 @snap[east span-50]
