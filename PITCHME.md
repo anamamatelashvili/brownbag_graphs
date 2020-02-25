@@ -26,36 +26,23 @@
 
 - Nodes/vertices
 
-<br>
-
 - Connected with edges/relations
 
 <br>
+
 - Edges can have direction 
+
+- There can be multiple edges between nodes
+ 
+- Edges can have weights. 
   
-@snap[south-west span-40]
+@snap[south-east span-40]
 ![](440px-Directed.svg.png)
 @snapend
 
-@snap[south-east span-40]
+@snap[north-east span-40]
 ![](Undirected.svg.png)
 @snapend
-
----
-
-# Graphs
-
-<br>
-
-- There can be multiple edges between nodes
-<br>
-  
-@snap[west span-40]
-![](360px-Konigsberg_graph.svg.png)
-@snapend
-<br>
-
-- Edges can have weights. 
 
 ---
 
