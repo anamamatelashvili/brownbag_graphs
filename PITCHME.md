@@ -25,8 +25,12 @@
 <br>
 
 - Nodes/vertices
+
+<br>
+
 - Connected with edges/relations
 
+<br>
 - Edges can have direction 
   
 @snap[south-west span-40]
@@ -44,10 +48,12 @@
 <br>
 
 - There can be multiple edges between nodes
+<br>
   
 @snap[west span-40]
 ![](360px-Konigsberg_graph.svg.png)
 @snapend
+<br>
 
 - Edges can have weights. 
 
@@ -147,7 +153,13 @@ In computer science and optimization theory, the max-flow min-cut theorem states
 ![](dep.png)
 @snapend
 
+---
 
+# Networks: 
+- Social networds
+- Infrastructure grids: energy grids, roads
+- Concepts
+- Epidemic spread
 
 ---
 
@@ -163,19 +175,72 @@ She's many-bodied and divided in at least 2 factions.
 @snapend
 
 --- 
-# Stanford [CoreNLP](https://stanfordnlp.github.io/CoreNLP/) for R
-By Christopher Manning, Mihai Surdeanu, John Bauer, Jenny Finkel, Steven Bethard, David McClosky
 
-<br>
+# Information Extraction 
 
-```r
-downloadCoreNLP()
-initCoreNLP(type='english_all')
-```
 
-- Needs a lot of memory 
-- Depends on Java
+@snap[south span-50]
+![](mockup-receipt.pdf)
+@snapend
 
+---
+# Connected component search
+
+@snap[south span-50]
+![](images.png)
+@snapend
+
+---
+
+@snap[south span-50]
+![](mockup-receipt-1.pdf)
+@snapend
+
+---
+
+# PageRank
+
+@snap[south span-50]
+![](440px-PageRank-hi-res.png)
+@snapend
+
+--- 
+
+# Summariser for slack
+
+@snap[south span-50]
+![](link_summariser.png)
+@snapend
+
+---
+
+# Graph coloring
+
+@snap[south span-50]
+![](images.jpeg)
+@snapend
+
+
+---
+
+# Minimum spanning tree
+
+@snap[south span-50]
+![](images-2.png)
+@snapend
+
+---
+# Other Algorithms
+
+- Shortest paths
+- Centrality measures
+
+---
+
+# Tools
+
+- NetworkX
+- Graph databases: neo4j, GRAKN
 
 ---
 @snap[west span-100]
