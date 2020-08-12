@@ -1,11 +1,11 @@
 
-# Graphs for Data Science
+# Graphs theory in Data Science
 @snap[east span-100]
 ### nushki mamatelashvili 
 @snapend
 
 @snap[south-east span-30]
-25 February, 2020
+13 August, 2020
 @snapend
 
 @snap[south-west span-40]
