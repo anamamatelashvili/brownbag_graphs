@@ -366,13 +366,12 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 # Information 
 # Extraction
 
-Nodes: words
-
-Edges: proximity 
+- Nodes: words
+- Edges: proximity 
 
 <br>
 
-Connected Components
+**Connected Components**
 
 <br>
 
@@ -406,9 +405,8 @@ Connected Components
 
 # Summariser for slack
 
-Nodes: sentences
-
-Edges: semantic similarity 
+- Nodes: sentences
+- Edges: semantic similarity 
 
 @snap[midpoint span-65]
 ![](link_summariser.png)
