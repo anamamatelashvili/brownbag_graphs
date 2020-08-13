@@ -362,7 +362,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 ---
 
-@snap[west span-50] 
+
 # Information Extraction
 
 - Nodes: words
@@ -373,7 +373,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 **Connected Components**
 
 <br>
-
+@snap[south-west span-50] 
 ![](images.png)
 @snapend
 
