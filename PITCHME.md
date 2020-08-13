@@ -22,33 +22,24 @@
 
 # Graphs
 
-Used to structure entities and objects and 
-study relationships between them. 
+Used to structure entities and objects and study relationships between them. 
 
 A graph is a pair of sets G = (V,E).  
 
 <br>
 
-- V is the set of nodes/vertices 
-
-corresponding with the objects 
-- E is the set of edges corresponding 
-
-with the relations between the objects  
-- Undirected graph: 
-
-V = {A, B, C}, E = {(A,B), (B,C), (C,A)}
-- Directed graph: 
-
-V = {A, B, C}, E = {(A,B), (B,C), (C,B), (C,A)}
+- V is the set of nodes/vertices corresponding with the objects 
+- E is the set of edges corresponding with the relations between the objects  
+- Undirected graph: V = {A, B, C}, E = {(A,B), (B,C), (C,A)}
+- Directed graph: V = {A, B, C}, E = {(A,B), (B,C), (C,B), (C,A)}
 - There can be multiple edges between nodes 
 - Edges can have weights 
   
-@snap[south-east span-40]
+@snap[south-east span-20]
 ![](440px-Directed.svg-2.png)
 @snapend
 
-@snap[north-east span-40]
+@snap[north-east span-20]
 ![](Undirected.svg-2.png)
 @snapend
 
