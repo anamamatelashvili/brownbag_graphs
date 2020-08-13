@@ -361,6 +361,13 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 @snapend
 
 ---
+# Connected Components 
+
+@snap[midpoint span-50] 
+![](images.png)
+@snapend
+
+---
 
 
 # Information Extraction
@@ -370,16 +377,9 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 <br>
 
-**Connected Components**
-
-<br>
-@snap[south-west span-50] 
-![](images.png)
-@snapend
 
 
-
-@snap[south-east span-50]
+@snap[south-east span-40]
 ![](mockup-receipt.pdf)
 <br>
 
