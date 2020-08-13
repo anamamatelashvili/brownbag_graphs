@@ -22,11 +22,17 @@
 
 # Graphs
 
+Used to structure entities and objects and study relationships between them. 
+
 <br>
 
-- Nodes/vertices
+A graph is a pair of sets `G = (V,E)`  
 
-- Connected with edges/relations
+<br>
+
+- `V` is the set of nodes/vertices corresponding with the objects 
+
+- `E` is the set of edges corresponding with the relations between the objects  
 
 <br>
 
@@ -37,11 +43,11 @@
 - Edges can have weights 
   
 @snap[south-east span-40]
-![](440px-Directed.svg.png)
+![](440px-Directed.svg-2.png)
 @snapend
 
 @snap[north-east span-40]
-![](Undirected.svg.png)
+![](Undirected.svg-2.png)
 @snapend
 
 ---
