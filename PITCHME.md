@@ -1,5 +1,5 @@
 
-# Graphs theory in Data Science
+# Graph theory in Data Science
 @snap[east span-100]
 ### nushki mamatelashvili 
 @snapend
