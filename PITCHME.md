@@ -368,12 +368,11 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 Nodes: words
 
-Edges: proximity on the page
+Edges: proximity 
 
 <br>
 
-### Connected 
-### Components
+Connected Components
 
 <br>
 
@@ -407,7 +406,7 @@ Edges: proximity on the page
 
 # Summariser for slack
 
-Nodes: sentences in an article
+Nodes: sentences
 
 Edges: semantic similarity 
 
