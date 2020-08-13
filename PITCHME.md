@@ -366,6 +366,10 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 # Information 
 # Extraction
 
+Nodes: words
+
+Edges: proximity on the page
+
 <br>
 
 ### Connected 
@@ -402,6 +406,10 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 --- 
 
 # Summariser for slack
+
+Nodes: sentences in an article
+
+Edges: semantic similarity 
 
 @snap[midpoint span-65]
 ![](link_summariser.png)
