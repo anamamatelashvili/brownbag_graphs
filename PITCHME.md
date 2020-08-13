@@ -363,8 +363,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 ---
 
 @snap[west span-50] 
-# Information 
-# Extraction
+# Information Extraction
 
 - Nodes: words
 - Edges: proximity 
@@ -380,7 +379,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 
 
 
-@snap[east span-50]
+@snap[south-east span-50]
 ![](mockup-receipt.pdf)
 <br>
 
