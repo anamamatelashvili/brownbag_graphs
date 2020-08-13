@@ -111,7 +111,8 @@ She's many-bodied and divided in at least 2 factions.
 @snapend
   
 ---
-# Nodes: Entities (spaCy)
+# Nodes: Entities 
+## (spaCy)
 @snap[north-east span-50]
 ![](KG1-2.png)
 @snapend
@@ -129,7 +130,8 @@ She's many-bodied and divided in at least 2 factions.
              at_least_2    CARDINAL
 ```
 ---
-# Edges: relations (CoreNLP Open IE)
+# Edges: relations 
+## (CoreNLP Open IE)
 
 @snap[north-east span-50]
 ![](KG1-3.png)
@@ -152,7 +154,8 @@ She's many-bodied and divided in at least 2 factions.
           She         has            many-bodied
 ```
 ---
-# Ambiguities: Coreference Resolution (CoreNLP Open IE)
+# Ambiguities: Coreference Resolution 
+## (CoreNLP Open IE)
 
 @snap[north-east span-50]
 <br>
@@ -182,7 +185,8 @@ Two coreference clusters:
 
 
 ---
-# Find entities: noun phrases (spaCy)
+# Find entities: noun phrases 
+## (spaCy)
 
 
 @snap[north-east span-50]
@@ -203,7 +207,8 @@ When was the Radch Empire founded?
 ```
 
 ---
-# Find verbs: parts of speech (spaCy)
+# Find verbs: parts of speech 
+## (spaCy)
 
 @snap[north-east span-50]
 <br>
@@ -226,7 +231,8 @@ When was the Radch Empire founded?
 ```
 
 ---
-# Pair them up: dependencies (spaCy)
+# Pair them up: dependencies 
+## (spaCy)
 
 @snap[north-east span-50]
 <br>
@@ -256,7 +262,8 @@ When was the Radch Empire founded?
 
 
 ---
-# Relate to the KG: word embeddings (spaCy, GloVe)
+# Relate to the KG: word embeddings 
+## (spaCy, GloVe)
 
 @snap[north-east span-50]
 <br>
@@ -276,7 +283,8 @@ founded created leader is divided
 ```
 ---
 
-# Relate to the KG: semantic similarity (spaCy)
+# Relate to the KG: semantic similarity 
+## (spaCy)
 
 <br>
 
