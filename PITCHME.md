@@ -408,7 +408,7 @@ The following are equivalent for a graph G ([paper](https://arxiv.org/abs/1209.5
 - Nodes: sentences
 - Edges: semantic similarity 
 
-@snap[midpoint span-65]
+@snap[south span-65]
 ![](link_summariser.png)
 @snapend
 
